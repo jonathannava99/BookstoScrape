@@ -15,7 +15,7 @@
 
 <p><h3>Description de l'application</h3>
 BookstoScrpe est un programme qui permet de récolter les informations des livres
-du site <a href="https://books.toscrape.com/index.html"><br>https://books.toscrape.com/index.html</a>
+du site <a href="https://books.toscrape.com/index.html" target="_blank"><br>https://books.toscrape.com/index.html</a>
  comme le:<br><br>
 <ul>
   <li>product_page_url</li>
