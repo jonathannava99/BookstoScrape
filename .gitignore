@@ -1,0 +1,5 @@
+env
+venv
+Categories
+.idea/
+__pycache__/
