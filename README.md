@@ -1,6 +1,6 @@
 <h1>BookstoScrape</h1>
-<p><h3>Pour créer l'environnment virtuel il faut utiliser</h3>
-les commandes suivantes:</p>
+<p><h3>Pour créer l'environnment virtuel il faut utiliser les commandes suivantes :</h3>
+</p>
 <ul>
   <li>python -m venv nomEnvironnement</li>
   <li>source env/bin/activate</li>
